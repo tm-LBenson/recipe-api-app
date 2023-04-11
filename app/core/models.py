@@ -1,3 +1,3 @@
-from django.db import models
-print(models)
+from django.db import models # noqa
+
 # Create your models here.
